@@ -1,4 +1,8 @@
-## What is Handshake?
+## What is this website?
+
+This website is a resource for learning about Handshake and software for using it.
+
+### What is Handshake?
 
 Handshake is a new blockchain that allows permissionless naming on the internet. [Handshake.org](https://handshake.org) explains that this blockchain seeks to "replace the root zone file and the root servers with a public commons." What does this mean in practical terms? Individuals will be able to personally own top level names on the internet. Examples of top level names in the current domain name system are "com", "net", and "org".
 
