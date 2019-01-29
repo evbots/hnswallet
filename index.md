@@ -1,4 +1,4 @@
-## What is this hnswallet.com?
+## What is hnswallet.com?
 
 This website is a resource for learning about Handshake and software for using it.
 
