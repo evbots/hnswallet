@@ -12,6 +12,7 @@ Handshake is currently under development and is currently running as a test net.
 
 Run the software yourself and experience the joy of self-reliance. [Check out the Github org](https://github.com/handshake-org).
 
-#### Other Options
+### Custodial Wallets
 
-You can also use wallets that take custody of your funds. One such option at the moment is [Namebase](https://namebase.io/).
+* [Namebase](https://namebase.io/)
+  * Namebase is building a comprehensive application to store, use, and buy HNS.
