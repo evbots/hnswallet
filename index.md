@@ -14,8 +14,7 @@ Run the software yourself and experience the joy of self-reliance. [Check out th
 
 ### Custodial Wallets
 
-* [Namebase](https://namebase.io/)
-  * Namebase is building a comprehensive application to store, use, and buy HNS.
+* [Namebase](https://namebase.io/), a comprehensive application to store, use, and exchange HNS.
   
 ### Noncustodial Wallets
 
