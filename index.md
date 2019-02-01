@@ -1,6 +1,6 @@
 ## What is hnswallet.com?
 
-This website is a resource for learning about Handshake and software for using it such as wallets, block explorers, full nodes, and mining software.
+This website is a resource for learning about Handshake and software for using it such as wallets, block explorers, full nodes, and mining software. If you would like to add something to this page feel free to make a change and submit a [pull request](https://github.com/evbots/hnswallet).
 
 ### What is Handshake?
 
