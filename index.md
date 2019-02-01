@@ -1,6 +1,6 @@
 ## What is hnswallet.com?
 
-This website is a resource for learning about Handshake and software for using it.
+This website is a resource for learning about Handshake and software for using it such as wallets, block explorers, full nodes, and mining software.
 
 ### What is Handshake?
 
@@ -10,9 +10,26 @@ Handshake is currently under development and is currently running as a test net.
 
 ### How can I use Handshake?
 
-Run the software yourself and experience the joy of self-reliance. [Check out the Github org](https://github.com/handshake-org).
+Run the software yourself and experience the joy of self-reliance. [Check out the Github org](https://github.com/handshake-org). Your options are listed in more detail below.
 
 ### Custodial Wallets
 
 * [Namebase](https://namebase.io/)
   * Namebase is building a comprehensive application to store, use, and buy HNS.
+  
+### Noncustodial Wallets
+
+* None yet (you should make one!)
+
+### Block Explorers
+
+* [HNScan](https://hnscan.com/)
+* [HNSxplorer](https://hnsxplorer.com/)
+
+### Node Implementations
+
+* [hsd](https://github.com/handshake-org/hsd/)
+
+### Mining Software
+
+* [hs-miner](https://github.com/handshake-org/hs-miner/)
