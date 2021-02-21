@@ -18,7 +18,8 @@ Run the software yourself and experience the joy of self-reliance. [Check out th
   
 ### Noncustodial Wallets
 
-* None yet (you should make one!)
+* [Bob Wallet (desktop app)](https://github.com/kyokan/bob-wallet)
+* [hsd full node (cli tool)](https://github.com/handshake-org/hsd)
 
 ### Block Explorers
 
