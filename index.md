@@ -23,8 +23,13 @@ Run the software yourself and experience the joy of self-reliance. [Check out th
 
 ### Block Explorers
 
+* [HNSnetwork](https://hnsnetwork.com/)
 * [HNScan](https://hnscan.com/)
 * [HNSxplorer](https://hnsxplorer.com/)
+
+### Network Statistics
+
+* [HNS Fans](https://e.hnsfans.com/)
 
 ### Node Implementations
 
