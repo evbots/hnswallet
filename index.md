@@ -20,7 +20,7 @@ Run the software yourself and experience the joy of self-reliance. [Check out th
 
 * [Bob Wallet: desktop app and browser extension](https://github.com/kyokan/bob-wallet)
 * [HSD full node (cli)](https://github.com/handshake-org/hsd)
-    * [Palm Reader: terminal UI plugin for hsd](https://github.com/pinheadmz/palmreader)
+  * [Palm Reader: terminal UI plugin for hsd](https://github.com/pinheadmz/palmreader)
 * [Pinkie-Swear: non-custodial web-wallet](https://github.com/pinheadmz/pinkie)
 
 ### Block Explorers
