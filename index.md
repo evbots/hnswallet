@@ -18,14 +18,17 @@ Run the software yourself and experience the joy of self-reliance. [Check out th
   
 ### Noncustodial Wallets
 
-* [Bob Wallet (desktop app)](https://github.com/kyokan/bob-wallet)
-* [hsd full node (cli tool)](https://github.com/handshake-org/hsd)
+* [Bob Wallet: desktop app and browser extension](https://github.com/kyokan/bob-wallet)
+* [HSD full node (cli)](https://github.com/handshake-org/hsd)
+    * [Palm Reader: terminal UI plugin for hsd](https://github.com/pinheadmz/palmreader)
+* [Pinkie-Swear: non-custodial web-wallet](https://github.com/pinheadmz/pinkie)
 
 ### Block Explorers
 
 * [HNSnetwork](https://hnsnetwork.com/)
-* [HNScan](https://hnscan.com/)
+* [Niami](https://www.niami.io/)
 * [HNSxplorer](https://hnsxplorer.com/)
+* [BlockExplorer](https://blockexplorer.com/)
 
 ### Network Statistics
 
