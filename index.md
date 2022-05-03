@@ -38,6 +38,7 @@ Run the software yourself and experience the joy of self-reliance. [Check out th
 
 * [hsd: JS implementation](https://github.com/handshake-org/hsd/)
 * [Gohan: Go implementation ⚠️ currently in pre-alpha](https://github.com/kurumiimari/gohan)
+* [rsd: Rust implementation ⚠️ experimental](https://github.com/UrkelLabs/rsd)
 
 ### Mining Software
 
